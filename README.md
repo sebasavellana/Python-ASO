@@ -16,7 +16,7 @@ iguales, y muestre por pantalla, si dichos números son iguales, si un número e
 si el primer número es menor que el segundo.
 Deberás implementar el control de errores necesario para verificar que se cargan valores numéricos.
 
-Implementa el script removefirstlast.py en el que se borrarán el primer y el último carácter de un
+1. Implementa el script removefirstlast.py en el que se borrarán el primer y el último carácter de un
 string introducido por la entrada estándar. El string resultante deberá ser mostrado por la salida estándar.
 Deberás comprobar que el usuario no introduce un string de longitud menor o igual a 2 caracteres.
 
